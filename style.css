@@ -1,0 +1,14 @@
+body {
+    background-image : url(background.jpg);
+    font-family : "Trebuchet MS", "Helvetica", "Verdana", "Arial", sans-serif;
+    color : #ffffff;
+}
+body > h1 {
+    font-size : 1000%;
+}
+a {
+    color : #ffffff;
+}
+#about {
+    width : 50%;
+}
